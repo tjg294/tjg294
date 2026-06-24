@@ -5,7 +5,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... *she/her*
-- ⚡ Fun fact: ... I have **8 cats** 😺
+- ⚡ Fun fact: ... I have **4 cats** 😺
 <!--
 **tjg294/tjg294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
